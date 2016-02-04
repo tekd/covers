@@ -1,0 +1,14 @@
+{
+  "name": "covers-project",
+  "version": "1.0.0",
+  "description": "fun with covers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denny Tek",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
